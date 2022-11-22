@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="gongsiname">\@上海腾旭开发有限公司</string>
+    <!--    \可以使@符号转义-->
+</resources>

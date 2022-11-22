@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btnbg1"
+        android:orderInCategory="100"
+        android:title="素青"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/btnbg2"
+        android:orderInCategory="100"
+        android:title="灰"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/btnbg3"
+        android:orderInCategory="100"
+        android:title="浅粉"
+        app:showAsAction="never"/>
+
+</menu>
